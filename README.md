@@ -8,8 +8,8 @@ The purpose of this repo is to familiarize myself with:
 
 ## header 2
 
-- *point* 1
-- **point** 2
+- *italic*
+- **bold**
 
 This is a [Link](https://youtu.be/dQw4w9WgXcQ?si=dAIAG2x0GkGFOBXq).
 My GitHub page: <https://github.com/stove-jeebs/stats220>
