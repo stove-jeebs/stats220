@@ -1,9 +1,10 @@
 # STATS220
 
-## header 1
+## Purposes
 
-1. hello
-2. world
+The purpose of this repo is to familiarize myself with:
+1. creating GitHub repo
+2. markdown
 
 ## header 2
 
