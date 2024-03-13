@@ -12,4 +12,4 @@ The purpose of this repo is to familiarize myself with:
 - **bold**
 
 This is a [Link](https://youtu.be/dQw4w9WgXcQ?si=dAIAG2x0GkGFOBXq).\
-My GitHub page: <https://github.com/stove-jeebs/stats220>
+My GitHub page: <https://github.com/stove-jeebs>
